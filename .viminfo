@@ -1,0 +1,3632 @@
+# Этот файл viminfo автоматически создан Vim 8.2.
+# Его можно (осторожно!) редактировать.
+
+# Viminfo version
+|1,4
+
+# Значение опции 'encoding' в момент записи файла
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Последний Шаблон поиска:
+~MSle0~/prop
+
+# Последняя строка для замены:
+$
+
+# Командная строка, история (начиная от свежего к старому):
+:q
+|2,0,1653835958,,"q"
+:wq
+|2,0,1653672076,,"wq"
+:source ~/.vimrc
+|2,0,1653649436,,"source ~/.vimrc"
+:call UltiSnips#RefreshSnippets()
+|2,0,1653649320,,"call UltiSnips#RefreshSnippets()"
+:q!
+|2,0,1652729858,,"q!"
+:::::::
+|2,0,1652729854,,"::::::"
+:h vimtex
+|2,0,1648309747,,"h vimtex"
+:set g:vimtex_compiler_engine = 'lualatex'
+|2,0,1638573183,,"set g:vimtex_compiler_engine = 'lualatex'"
+:set vimtex_compiler_engine = 'lualatex'
+|2,0,1638573171,,"set vimtex_compiler_engine = 'lualatex'"
+:w
+|2,0,1633088278,,"w"
+:VimtexCountLetters
+|2,0,1633085624,,"VimtexCountLetters"
+:VimtexCountWords
+|2,0,1633085306,,"VimtexCountWords"
+:VimtexInfo
+|2,0,1632752239,,"VimtexInfo"
+:VimtexToggleMain
+|2,0,1632752228,,"VimtexToggleMain"
+:w!
+|2,0,1632537875,,"w!"
+:set cpo?
+|2,0,1632535316,,"set cpo?"
+:echo v:servername
+|2,0,1632527054,,"echo v:servername"
+:PlugInstall
+|2,0,1632526296,,"PlugInstall"
+
+# Строка поиска, история (начиная от свежего к старому):
+?/prop
+|2,1,1653725744,47,"prop"
+?/tilde
+|2,1,1653649296,47,"tilde"
+?/til
+|2,1,1653649268,47,"til"
+? \<rangle\>
+|2,1,1653644819,,"\\<rangle\\>"
+?/hyperref
+|2,1,1652518163,47,"hyperref"
+?/\[
+|2,1,1651607434,47,"\\["
+?/utf
+|2,1,1650564858,47,"utf"
+?/aisb
+|2,1,1649271251,47,"aisb"
+? \<0\>
+|2,1,1649271241,,"\\<0\\>"
+?/wedge
+|2,1,1648812763,47,"wedge"
+?/aligned
+|2,1,1648735670,47,"aligned"
+?/normord
+|2,1,1648310871,47,"normord"
+?/overline
+|2,1,1645207860,47,"overline"
+?/ket
+|2,1,1644255414,47,"ket"
+?/ii
+|2,1,1641579089,47,"ii"
+?/Задача 15
+|2,1,1640795448,47,"Задача 15"
+?/Задача 9
+|2,1,1640788346,47,"Задача 9"
+?/Задача 3
+|2,1,1640782332,47,"Задача 3"
+? \<begin\>
+|2,1,1640657877,,"\\<begin\\>"
+?/theo
+|2,1,1639134102,47,"theo"
+?/Упражнение 11
+|2,1,1640650461,47,"Упражнение 11"
+? }{}
+|2,1,1639163095,,"}{}"
+?/luatex
+|2,1,1638573082,47,"luatex"
+?/bra
+|2,1,1638558116,47,"bra"
+?/fig
+|2,1,1636749368,47,"fig"
+?/k_B
+|2,1,1636748300,47,"k_B"
+?/emph
+|2,1,1636633498,47,"emph"
+?/!
+|2,1,1636633102,47,"!"
+?/{1}
+|2,1,1636185385,47,"{1}"
+?/sin
+|2,1,1635098040,47,"sin"
+?/русс
+|2,1,1633087270,47,"русс"
+?/hyper
+|2,1,1633086350,47,"hyper"
+?/C-l
+|2,1,1632748636,47,"C-l"
+?/spell
+|2,1,1632748570,47,"spell"
+?/ctrl
+|2,1,1632748548,47,"ctrl"
+?/;slkndce;d
+|2,1,1632745456,47,";slkndce;d"
+?/textbf
+|2,1,1632747481,47,"textbf"
+?/В
+|2,1,1632747397,47,"В"
+?/und 
+|2,1,1632746239,47,"und "
+?/indent
+|2,1,1632743413,47,"indent"
+?/identfirst
+|2,1,1632743407,47,"identfirst"
+?/ident
+|2,1,1632743398,47,"ident"
+?/re"
+|2,1,1632739741,47,"re\""
+?/synctex
+|2,1,1632527115,47,"synctex"
+?/servername
+|2,1,1632526901,47,"servername"
+?/xdg
+|2,1,1632518300,47,"xdg"
+? @$
+|2,1,1632516480,,"@$"
+
+# Выражение, история (начиная от свежего к старому):
+
+# Строка ввода, история (начиная от свежего к старому):
+@\[
+|2,3,1653764875,,"\\["
+@$
+|2,3,1653764715,,"$"
+@[
+|2,3,1653761409,,"["
+@equation
+|2,3,1653759789,,"equation"
+@\bigl(
+|2,3,1652266077,,"\\bigl("
+@stm*
+|2,3,1651595890,,"stm*"
+@stm
+|2,3,1651595880,,"stm"
+@equaion
+|2,3,1651228522,,"equaion"
+@cases
+|2,3,1651228412,,"cases"
+@multline
+|2,3,1650300044,,"multline"
+@(
+|2,3,1649431215,,"("
+@longtable
+|2,3,1649025804,,"longtable"
+@align
+|2,3,1648813002,,"align"
+@multtline
+|2,3,1648743756,,"multtline"
+@thm*
+|2,3,1647601335,,"thm*"
+@dfn*
+|2,3,1647601325,,"dfn*"
+@equattion
+|2,3,1646070346,,"equattion"
+@\{
+|2,3,1644580439,,"\\{"
+@{
+|2,3,1644509743,,"{"
+@align*
+|2,3,1639151898,,"align*"
+@exmp
+|2,3,1639149729,,"exmp"
+@enumerate
+|2,3,1639136732,,"enumerate"
+
+# Строка отладки, история (начиная от свежего к старому):
+
+# Регистры:
+"0	CHAR	0
+	\[
+		\left<\left(\delta v\right)^2(t) \right> = 2\hbar 
+		\int_0^{+\infty}\omega^2 \operatorname{Im}(\alpha(\omega))
+		\coth \left( \frac{\hbar \omega}{2T} \right) 
+		\frac{d\omega}{2\pi}
+	.\]
+|3,0,0,0,6,0,1653833951,"\\[","	\\left<\\left(\\delta v\\right)^2(t) \\right> = 2\\hbar ","	\\int_0^{+\\infty}\\omega^2 \\operatorname{Im}(\\alpha(\\omega))","	\\coth \\left( \\frac{\\hbar \\omega}{2T} \\right) ","	\\frac{d\\omega}{2\\pi}",".\\]"
+""1	CHAR	0
+	2\hbar 
+		\int_0^{+\infty}\omega^2 \operatorname{Im}(\chi(\omega))
+		\coth \left( \frac{\hbar \omega}{2T} \right) 
+		\frac{d\omega}{2\pi}
+|3,1,1,0,4,0,1653834012,"2\\hbar ","	\\int_0^{+\\infty}\\omega^2 \\operatorname{Im}(\\chi(\\omega))","	\\coth \\left( \\frac{\\hbar \\omega}{2T} \\right) ","	\\frac{d\\omega}{2\\pi}"
+"2@	LINE	0
+	
+|3,2,2,1,1,0,1653814006,""
+"3	CHAR	0
+	\frac{\hbar }{2 \omega_0}
+		\coth \left( \frac{\hbar \omega_0}{2T} \right) 
+|3,0,3,0,2,0,1653753520,"\\frac{\\hbar }{2 \\omega_0}","	\\coth \\left( \\frac{\\hbar \\omega_0}{2T} \\right) "
+"4	LINE	0
+	
+|3,0,4,1,1,0,1653753513,""
+"5	CHAR	0
+	При  $T\to \infty$
+	\[
+		\left<\delta x^2(t) \right> = \frac{T}{\omega_0^2}
+	.\] 
+|3,0,5,0,4,0,1653753512,"При  $T\\to \\infty$","\\[","	\\left<\\delta x^2(t) \\right> = \\frac{T}{\\omega_0^2}",".\\] "
+"6	CHAR	0
+	Любое решение $x(t)$ тем самым имеет вид
+	 \[
+		 x(t)= \int \chi(t-t')F(t')dt'
+	.\] 
+	Для скорости же 
+	\[
+		v(t)=\dot{x}(t)=\int \dot{\chi}(t-t')F(t')dt'
+	,\] 
+	т.\:е.  функцей Грина для скорости будет $\dot{\chi}(t-t')$,
+	а в фурье пространстве $-i\omega \chi(\omega)$
+|3,0,6,0,10,0,1653752121,"Любое решение $x(t)$ тем самым имеет вид"," \\[","	 x(t)= \\int \\chi(t-t')F(t')dt'",".\\] ","Для скорости же ","\\[","	v(t)=\\dot{x}(t)=\\int \\dot{\\chi}(t-t')F(t')dt'",",\\] ","т.\\:е.  функцей Грина для скорости будет $\\dot{\\chi}(t-t')$,","а в фурье пространстве $-i\\omega \\chi(\\omega)$"
+"7	LINE	0
+	
+|3,0,7,1,1,0,1653752023,""
+"8	CHAR	0
+	Аналогично для осциллятора без трения
+	\[
+		\chi(\omega)= \frac{1}{-\omega^2+\omega_0^2}
+	.\] 
+|3,0,8,0,4,0,1653752022,"Аналогично для осциллятора без трения","\\[","	\\chi(\\omega)= \\frac{1}{-\\omega^2+\\omega_0^2}",".\\] "
+"9	CHAR	0
+	Флуктуационно-диссипативная теорема для обобщённой
+	восприимчивости в квазиклассическом пределе
+	\[
+		\langle \left( \delta x \right) ^2(t) \rangle =T \alpha\left( \omega=0 \right) 
+	.\] 
+|3,0,9,0,5,0,1653751913,"Флуктуационно-диссипативная теорема для обобщённой","восприимчивости в квазиклассическом пределе","\\[","	\\langle \\left( \\delta x \\right) ^2(t) \\rangle =T \\alpha\\left( \\omega=0 \\right) ",".\\] "
+"a	CHAR	0
+	a�kb��a
+|3,0,10,0,1,0,1644313593,"a�kb��a"
+"-	CHAR	0
+	.
+|3,0,36,0,1,0,1653833983,"."
+
+# Глобальные отметки:
+'0  229  43  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex
+|4,48,229,43,1653835958,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex"
+'1  79  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/preamble.tex
+|4,49,79,0,1653815297,"/mnt/psf/Home/mipt/bachelor-4/semester-2/preamble.tex"
+'2  30  25  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/old/main.tex
+|4,50,30,25,1653815297,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/old/main.tex"
+'3  160  12  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex
+|4,51,160,12,1653815296,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex"
+'4  1011  3  ~/.vim/UltiSnips/tex.snippets
+|4,52,1011,3,1653815296,"~/.vim/UltiSnips/tex.snippets"
+'5  171  15  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex
+|4,53,171,15,1653672076,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex"
+'6  174  15  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex
+|4,54,174,15,1653672076,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex"
+'7  171  15  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex
+|4,55,171,15,1653672076,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex"
+'8  56  33  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex
+|4,56,56,33,1653649459,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex"
+'9  47  33  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex
+|4,57,47,33,1653649459,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex"
+
+# Список прыжков (сначала более свежие):
+-'  229  43  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex
+|4,39,229,43,1653835958,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex"
+-'  227  63  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex
+|4,39,227,63,1653833946,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex"
+-'  215  48  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex
+|4,39,215,48,1653833804,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex"
+-'  212  42  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex
+|4,39,212,42,1653833502,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex"
+-'  207  14  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex
+|4,39,207,14,1653833366,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex"
+-'  305  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,305,0,1653833365,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  79  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/preamble.tex
+|4,39,79,0,1653815297,"/mnt/psf/Home/mipt/bachelor-4/semester-2/preamble.tex"
+-'  30  25  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/old/main.tex
+|4,39,30,25,1653815297,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/old/main.tex"
+-'  79  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/preamble.tex
+|4,39,79,0,1653815297,"/mnt/psf/Home/mipt/bachelor-4/semester-2/preamble.tex"
+-'  30  25  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/old/main.tex
+|4,39,30,25,1653815297,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/old/main.tex"
+-'  160  12  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex
+|4,39,160,12,1653815296,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex"
+-'  1011  3  ~/.vim/UltiSnips/tex.snippets
+|4,39,1011,3,1653815296,"~/.vim/UltiSnips/tex.snippets"
+-'  160  12  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex
+|4,39,160,12,1653815296,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex"
+-'  1011  3  ~/.vim/UltiSnips/tex.snippets
+|4,39,1011,3,1653815296,"~/.vim/UltiSnips/tex.snippets"
+-'  166  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex
+|4,39,166,0,1653814033,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex"
+-'  206  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex
+|4,39,206,0,1653814033,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex"
+-'  166  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex
+|4,39,166,0,1653814033,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex"
+-'  206  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex
+|4,39,206,0,1653814033,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex"
+-'  305  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,305,0,1653814033,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  285  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,285,0,1653814003,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  285  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,285,0,1653814003,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  207  14  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex
+|4,39,207,14,1653814003,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex"
+-'  210  34  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex
+|4,39,210,34,1653813754,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex"
+-'  210  34  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex
+|4,39,210,34,1653813754,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex"
+-'  211  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex
+|4,39,211,0,1653813749,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex"
+-'  126  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex
+|4,39,126,0,1653813749,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex"
+-'  211  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex
+|4,39,211,0,1653813749,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex"
+-'  126  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex
+|4,39,126,0,1653813749,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex"
+-'  282  185  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,282,185,1653811770,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  282  185  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,282,185,1653811770,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  324  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,324,0,1653811538,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  324  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,324,0,1653811538,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  300  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,300,0,1653768298,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  300  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,300,0,1653768298,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  58  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex
+|4,39,58,0,1653768274,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex"
+-'  58  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex
+|4,39,58,0,1653768274,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex"
+-'  299  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,299,0,1653768232,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  1  292  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,1,292,1653768232,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  299  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,299,0,1653768232,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  1  292  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,1,292,1653768232,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  144  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,144,0,1653768216,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  144  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,144,0,1653768216,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  287  13  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,287,13,1653768134,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  287  13  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,287,13,1653768134,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  298  162  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,298,162,1653768091,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  298  162  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,298,162,1653768091,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  279  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,279,0,1653768008,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  279  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,279,0,1653768008,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  272  9  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,272,9,1653767063,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  272  9  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,272,9,1653767063,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  248  125  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,248,125,1653765418,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  248  125  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,248,125,1653765418,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  241  29  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,241,29,1653765180,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  241  29  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,241,29,1653765180,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  226  83  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,226,83,1653764597,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  226  83  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,226,83,1653764597,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  217  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,217,0,1653764492,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  217  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,217,0,1653764492,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  219  32  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,219,32,1653764490,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  219  32  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,219,32,1653764490,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  220  28  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,220,28,1653764391,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  220  28  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,220,28,1653764391,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  197  44  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,197,44,1653763890,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  197  44  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,197,44,1653763890,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  166  20  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,166,20,1653761724,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  166  20  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,166,20,1653761724,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  159  49  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,159,49,1653761418,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  159  49  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,159,49,1653761418,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  152  27  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,152,27,1653761277,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  152  27  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,152,27,1653761277,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  48  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,48,0,1653760362,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  48  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,48,0,1653760362,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  143  40  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,143,40,1653760361,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  143  40  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,143,40,1653760361,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  2  66  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,2,66,1653760237,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  2  66  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,2,66,1653760237,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  142  80  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,142,80,1653760207,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  142  80  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,142,80,1653760207,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  104  14  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,104,14,1653759805,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  104  14  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,104,14,1653759805,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  120  46  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,120,46,1653759783,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  120  46  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,120,46,1653759783,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  87  15  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,87,15,1653759653,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  87  15  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,87,15,1653759653,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  73  14  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,73,14,1653759627,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  73  14  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,73,14,1653759627,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  74  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,74,0,1653759611,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  111  45  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,111,45,1653759611,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  74  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,74,0,1653759611,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  111  45  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,111,45,1653759611,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  60  7  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,60,7,1653759475,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  60  7  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,60,7,1653759475,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  61  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,61,0,1653759466,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  110  35  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,110,35,1653759466,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  61  0  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,61,0,1653759466,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  110  35  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,110,35,1653759466,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  103  20  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,103,20,1653759261,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  103  20  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,103,20,1653759261,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  59  35  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,59,35,1653757475,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+-'  59  35  /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+|4,39,59,35,1653757475,"/mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex"
+
+# История местных отметок (от более свежих к старым):
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C19.tex
+	*	1653834013	0
+	"	229	43
+	^	229	44
+	.	229	43
+	+	118	15
+	+	119	0
+	+	118	29
+	+	120	0
+	+	119	1
+	+	120	103
+	+	121	88
+	+	122	23
+	+	121	90
+	+	120	74
+	+	121	59
+	+	119	1
+	+	122	84
+	+	122	0
+	+	122	104
+	+	123	18
+	+	123	44
+	+	122	118
+	+	125	0
+	+	231	0
+	+	125	13
+	+	125	188
+	+	126	0
+	+	128	27
+	+	133	4
+	+	134	4
+	+	139	4
+	+	128	0
+	+	128	28
+	+	139	50
+	+	141	74
+	+	126	111
+	+	142	13
+	+	143	0
+	+	143	43
+	+	228	95
+	+	228	0
+	+	228	29
+	+	228	0
+	+	228	16
+	+	228	29
+	+	228	45
+	+	228	0
+	+	228	90
+	+	228	55
+	+	143	0
+	+	145	27
+	+	148	40
+	+	152	4
+	+	156	4
+	+	164	4
+	+	168	4
+	+	182	4
+	+	186	4
+	+	202	53
+	+	208	39
+	+	231	0
+	+	130	0
+	+	131	0
+	+	189	0
+	+	197	84
+	+	198	80
+	+	202	81
+	+	204	62
+	+	208	41
+	+	212	0
+	+	211	0
+	+	210	23
+	+	207	40
+	+	210	18
+	+	212	61
+	+	212	0
+	+	213	0
+	+	214	36
+	+	215	17
+	+	210	40
+	+	207	61
+	+	214	61
+	+	217	40
+	+	219	12
+	+	220	0
+	+	221	44
+	+	224	1
+	+	227	50
+	+	228	0
+	+	227	42
+	+	208	39
+	+	215	47
+	+	222	47
+	+	229	91
+	+	189	0
+	+	190	0
+	+	224	47
+	+	225	37
+	+	227	0
+	+	227	68
+	+	230	0
+	+	229	43
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C20.tex
+	*	1653833344	0
+	"	305	0
+	^	285	2
+	.	305	0
+	+	272	42
+	+	273	0
+	+	273	112
+	+	273	0
+	+	273	123
+	+	272	37
+	+	273	63
+	+	272	0
+	+	272	44
+	+	273	0
+	+	273	101
+	+	273	0
+	+	273	175
+	+	273	0
+	+	273	192
+	+	273	100
+	+	274	0
+	+	273	169
+	+	275	131
+	+	277	36
+	+	275	144
+	+	272	0
+	+	272	88
+	+	273	62
+	+	273	158
+	+	275	116
+	+	277	20
+	+	272	103
+	+	272	0
+	+	272	113
+	+	273	71
+	+	273	183
+	+	273	3
+	+	272	71
+	+	273	4
+	+	273	113
+	+	279	81
+	+	280	81
+	+	285	44
+	+	286	0
+	+	289	0
+	+	287	40
+	+	288	0
+	+	288	93
+	+	287	28
+	+	291	37
+	+	290	27
+	+	291	57
+	+	292	0
+	+	293	30
+	+	279	0
+	+	297	0
+	+	299	0
+	+	298	87
+	+	298	0
+	+	298	116
+	+	298	0
+	+	298	137
+	+	298	0
+	+	298	162
+	+	293	0
+	+	287	0
+	+	144	0
+	+	145	0
+	+	300	13
+	+	301	0
+	+	316	0
+	+	318	0
+	+	317	96
+	+	319	26
+	+	320	0
+	+	323	0
+	+	321	45
+	+	322	0
+	+	315	0
+	+	316	0
+	+	322	28
+	+	280	94
+	+	280	0
+	+	280	120
+	+	280	0
+	+	280	145
+	+	281	0
+	+	283	0
+	+	282	69
+	+	280	225
+	+	282	1
+	+	280	236
+	+	282	93
+	+	282	183
+	+	282	0
+	+	282	190
+	+	282	0
+	+	282	188
+	+	283	0
+	+	284	94
+	+	285	0
+	+	305	0
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/preamble.tex
+	*	1653815297	0
+	"	79	0
+	^	127	1
+	.	128	0
+	+	266	26
+	+	268	0
+	+	265	0
+	+	270	38
+	+	269	0
+	+	270	0
+	+	271	0
+	+	270	0
+	+	266	0
+	+	267	0
+	+	266	0
+	+	272	0
+	+	273	0
+	+	272	0
+	+	17	0
+	+	78	15
+	+	79	15
+	+	78	37
+	+	79	39
+	+	127	0
+	+	128	0
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/old/main.tex
+	*	1653815296	0
+	"	30	25
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/C18.tex
+	*	1653814056	0
+	"	160	12
+	^	255	100
+	.	160	12
+	+	275	0
+	+	272	0
+	+	272	51
+	+	273	12
+	+	272	6
+	+	273	22
+	+	274	50
+	+	277	0
+	+	279	0
+	+	278	6
+	+	281	0
+	+	283	0
+	+	282	65
+	+	280	22
+	+	180	0
+	+	180	123
+	+	181	0
+	+	210	0
+	+	213	0
+	+	211	51
+	+	212	2
+	+	214	0
+	+	217	0
+	+	215	47
+	+	216	51
+	+	216	2
+	+	216	0
+	+	215	46
+	+	215	108
+	+	218	0
+	+	219	55
+	+	219	48
+	+	219	55
+	+	219	0
+	+	219	55
+	+	270	0
+	+	219	33
+	+	221	48
+	+	219	0
+	+	221	81
+	+	222	0
+	+	223	106
+	+	226	0
+	+	228	0
+	+	227	45
+	+	222	0
+	+	219	11
+	+	220	21
+	+	229	0
+	+	229	113
+	+	230	0
+	+	234	0
+	+	231	48
+	+	232	30
+	+	233	46
+	+	236	0
+	+	238	0
+	+	237	40
+	+	238	0
+	+	239	9
+	+	240	0
+	+	242	0
+	+	241	56
+	+	242	0
+	+	244	0
+	+	246	0
+	+	245	57
+	+	246	0
+	+	247	102
+	+	248	0
+	+	251	0
+	+	249	43
+	+	215	82
+	+	216	0
+	+	249	47
+	+	250	90
+	+	259	0
+	+	265	0
+	+	260	39
+	+	261	51
+	+	262	46
+	+	263	47
+	+	264	37
+	+	267	0
+	+	269	0
+	+	266	64
+	+	268	49
+	+	266	0
+	+	270	0
+	+	271	0
+	+	206	0
+	+	252	0
+	+	255	82
+	+	255	0
+	+	255	99
+	+	162	12
+	+	160	12
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/master.tex
+	*	1653672078	0
+	"	20	0
+	^	26	10
+	.	26	9
+	+	3	0
+	+	24	14
+	+	22	15
+	+	25	0
+	+	26	0
+	+	25	9
+	+	26	9
+
+> ~/.vim/UltiSnips/tex.snippets
+	*	1653649313	0
+	"	1011	3
+	^	1011	4
+	.	1011	3
+	+	1208	10
+	+	204	0
+	+	211	0
+	+	244	0
+	+	585	0
+	+	820	0
+	+	819	0
+	+	853	0
+	+	935	0
+	+	1208	0
+	+	1646	10
+	+	840	15
+	+	845	0
+	+	850	0
+	+	835	0
+	+	865	0
+	+	536	13
+	+	1129	9
+	+	769	20
+	+	757	0
+	+	756	0
+	+	757	27
+	+	758	21
+	+	394	0
+	+	395	0
+	+	396	10
+	+	397	6
+	+	396	17
+	+	1129	9
+	+	1129	0
+	+	1636	0
+	+	1633	21
+	+	1634	6
+	+	1636	0
+	+	1637	0
+	+	983	0
+	+	984	14
+	+	985	8
+	+	1661	0
+	+	1666	0
+	+	1662	15
+	+	1663	7
+	+	1667	12
+	+	1668	1
+	+	1657	9
+	+	988	0
+	+	989	0
+	+	1024	0
+	+	989	0
+	+	991	3
+	+	1027	3
+	+	1657	0
+	+	1287	0
+	+	1287	9
+	+	1288	0
+	+	865	0
+	+	1009	0
+	+	1010	16
+	+	1011	3
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hi/preamble2.tex
+	*	1653642711	0
+	"	103	19
+	^	103	20
+	.	103	19
+	+	100	0
+	+	101	16
+	+	103	19
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/english/prestext/master.tex
+	*	1653542996	0
+	"	11	40
+	^	11	41
+	.	12	0
+	+	1	31
+	+	5	0
+	+	3	16
+	+	4	0
+	+	5	0
+	+	4	0
+	+	5	0
+	+	10	0
+	+	11	41
+	+	12	0
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/english/prestext/title.tex
+	*	1653542938	0
+	"	26	4
+	.	35	18
+	+	35	18
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/philosophy/exam/master.tex
+	*	1653513980	0
+	"	4	0
+	.	11	0
+	+	58	2232
+	+	58	0
+	+	58	165
+	+	62	3932
+	+	68	0
+	+	61	0
+	+	66	1385
+	+	65	0
+	+	68	0
+	+	67	9
+	+	87	2319
+	+	87	0
+	+	85	0
+	+	83	0
+	+	81	0
+	+	79	0
+	+	77	0
+	+	89	146
+	+	89	9
+	+	94	1158
+	+	90	0
+	+	90	189
+	+	90	374
+	+	91	0
+	+	93	0
+	+	96	208
+	+	97	167
+	+	97	9
+	+	98	2381
+	+	98	757
+	+	100	535
+	+	99	0
+	+	108	1377
+	+	131	0
+	+	107	0
+	+	105	0
+	+	103	0
+	+	101	0
+	+	110	345
+	+	110	9
+	+	121	1617
+	+	121	0
+	+	113	184
+	+	113	234
+	+	123	0
+	+	111	0
+	+	112	0
+	+	121	0
+	+	119	0
+	+	117	0
+	+	114	1914
+	+	130	1057
+	+	131	0
+	+	129	0
+	+	127	0
+	+	125	0
+	+	131	11
+	+	186	2917
+	+	187	0
+	+	185	0
+	+	183	0
+	+	181	0
+	+	179	0
+	+	177	0
+	+	176	40
+	+	238	1267
+	+	229	0
+	+	227	0
+	+	225	0
+	+	226	569
+	+	223	2079
+	+	222	0
+	+	221	1094
+	+	221	1326
+	+	220	0
+	+	231	281
+	+	231	9
+	+	232	0
+	+	238	1267
+	+	232	0
+	+	238	1267
+	+	232	327
+	+	232	18
+	+	232	895
+	+	232	372
+	+	236	1513
+	+	235	0
+	+	238	1267
+	+	238	1407
+	+	238	1269
+	+	242	0
+	+	239	148
+	+	239	9
+	+	243	0
+	+	246	2127
+	+	245	0
+	+	247	0
+	+	240	605
+	+	4	31
+	+	11	0
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/thesis/bkp/master.tex
+	*	1653513951	0
+	"	4	0
+	^	1361	72
+	.	1361	71
+	+	1340	85
+	+	1339	134
+	+	1340	183
+	+	1342	146
+	+	1342	0
+	+	1342	152
+	+	1342	0
+	+	1342	164
+	+	1342	0
+	+	1342	170
+	+	1342	0
+	+	1342	187
+	+	1342	0
+	+	1342	185
+	+	1342	0
+	+	1342	195
+	+	1342	0
+	+	1342	145
+	+	1342	0
+	+	1342	149
+	+	1342	0
+	+	1342	157
+	+	1342	0
+	+	1342	161
+	+	1342	0
+	+	1342	184
+	+	1342	0
+	+	1342	188
+	+	1342	0
+	+	1342	196
+	+	1342	0
+	+	1342	200
+	+	1342	0
+	+	1342	203
+	+	1341	51
+	+	1342	0
+	+	1340	225
+	+	1342	0
+	+	1342	147
+	+	1342	0
+	+	1342	156
+	+	1328	17
+	+	1344	0
+	+	1345	0
+	+	1353	0
+	+	1346	22
+	+	1346	189
+	+	1353	0
+	+	1346	189
+	+	1346	22
+	+	1346	29
+	+	1346	125
+	+	1346	31
+	+	1347	0
+	+	1348	168
+	+	1348	0
+	+	1348	168
+	+	1353	0
+	+	1348	168
+	+	1346	22
+	+	1349	21
+	+	1350	167
+	+	1351	61
+	+	1352	51
+	+	1352	115
+	+	1352	0
+	+	1352	117
+	+	1352	0
+	+	1352	183
+	+	1355	0
+	+	1362	0
+	+	1356	29
+	+	1358	87
+	+	1362	0
+	+	1358	205
+	+	1359	0
+	+	1358	208
+	+	1361	6
+	+	1352	133
+	+	1342	33
+	+	1342	176
+	+	1342	0
+	+	1342	176
+	+	1342	0
+	+	1342	179
+	+	1340	155
+	+	1337	171
+	+	1361	7
+	+	1358	7
+	+	1358	156
+	+	1358	0
+	+	1358	199
+	+	1358	0
+	+	1358	228
+	+	1361	121
+	+	1361	0
+	+	1361	164
+	+	1361	0
+	+	1361	193
+	+	1361	71
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/english/pres/master.tex
+	*	1653512569	0
+	"	53	26
+	^	33	9
+	.	33	9
+	+	23	0
+	+	41	0
+	+	33	9
+	+	60	9
+	+	42	0
+	+	44	0
+	+	45	0
+	+	47	0
+	+	35	0
+	+	36	0
+	+	45	27
+	+	46	0
+	+	44	9
+	+	47	34
+	+	45	28
+	+	35	0
+	+	33	9
+	+	35	0
+	+	33	9
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/supersymmetry/hw1/master.tex
+	*	1653421001	0
+	"	730	0
+	^	730	0
+	.	731	0
+	+	680	107
+	+	680	1
+	+	680	118
+	+	680	1
+	+	680	126
+	+	680	1
+	+	680	137
+	+	680	1
+	+	680	152
+	+	680	1
+	+	680	158
+	+	680	1
+	+	680	130
+	+	681	0
+	+	660	0
+	+	663	0
+	+	661	54
+	+	662	1
+	+	661	23
+	+	662	80
+	+	662	0
+	+	662	101
+	+	662	0
+	+	681	0
+	+	680	83
+	+	680	0
+	+	680	101
+	+	680	0
+	+	680	107
+	+	680	0
+	+	680	105
+	+	680	0
+	+	680	107
+	+	680	0
+	+	680	123
+	+	681	0
+	+	680	227
+	+	683	88
+	+	683	0
+	+	683	97
+	+	685	0
+	+	687	0
+	+	686	30
+	+	688	62
+	+	689	0
+	+	692	0
+	+	690	8
+	+	692	4
+	+	690	60
+	+	691	7
+	+	692	3
+	+	694	0
+	+	696	0
+	+	695	51
+	+	696	0
+	+	698	0
+	+	700	0
+	+	699	52
+	+	700	3
+	+	702	0
+	+	704	0
+	+	703	9
+	+	706	0
+	+	710	0
+	+	707	56
+	+	708	59
+	+	709	14
+	+	710	0
+	+	712	0
+	+	717	0
+	+	713	43
+	+	714	25
+	+	713	56
+	+	714	57
+	+	715	59
+	+	716	15
+	+	714	50
+	+	717	0
+	+	719	0
+	+	721	0
+	+	720	89
+	+	720	0
+	+	720	106
+	+	680	0
+	+	659	0
+	+	660	0
+	+	722	0
+	+	721	0
+	+	722	72
+	+	723	0
+	+	728	0
+	+	724	55
+	+	728	0
+	+	724	87
+	+	725	38
+	+	726	43
+	+	727	67
+	+	729	0
+	+	731	0
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/supersymmetry/hw2/master.tex
+	*	1653053135	0
+	"	1	0
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/hw2/master.tex
+	*	1652977547	0
+	"	2	0
+	^	79	11
+	.	79	10
+	+	50	122
+	+	50	0
+	+	50	128
+	+	50	0
+	+	50	132
+	+	50	98
+	+	63	0
+	+	63	50
+	+	63	71
+	+	63	95
+	+	63	0
+	+	39	0
+	+	97	0
+	+	63	4
+	+	70	0
+	+	63	0
+	+	71	2
+	+	63	0
+	+	84	157
+	+	84	48
+	+	86	0
+	+	88	0
+	+	87	24
+	+	71	31
+	+	71	30
+	+	89	29
+	+	62	37
+	+	63	0
+	+	63	1
+	+	50	0
+	+	50	122
+	+	52	0
+	+	55	0
+	+	53	0
+	+	53	93
+	+	53	0
+	+	53	139
+	+	53	0
+	+	53	150
+	+	53	0
+	+	53	155
+	+	53	0
+	+	53	160
+	+	55	0
+	+	53	161
+	+	54	46
+	+	46	67
+	+	53	80
+	+	55	0
+	+	63	0
+	+	62	0
+	+	52	0
+	+	53	0
+	+	56	88
+	+	60	11
+	+	63	0
+	+	64	0
+	+	68	0
+	+	65	0
+	+	62	11
+	+	71	2
+	+	74	0
+	+	66	40
+	+	68	0
+	+	66	37
+	+	69	85
+	+	71	2
+	+	70	0
+	+	75	81
+	+	76	0
+	+	77	7
+	+	78	18
+	+	79	17
+	+	77	14
+	+	78	7
+	+	79	6
+	+	81	47
+	+	82	0
+	+	84	0
+	+	83	0
+	+	86	0
+	+	85	0
+	+	87	13
+	+	88	0
+	+	89	0
+	+	91	43
+	+	89	49
+	+	2	0
+	+	73	0
+	+	79	0
+	+	67	66
+	+	71	17
+	+	72	24
+	+	73	10
+	+	77	33
+	+	78	1
+	+	79	10
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/thesis/litsem/master.tex
+	*	1652819346	0
+	"	30	15
+	^	61	338
+	.	37	0
+	+	40	0
+	+	51	114
+	+	55	0
+	+	52	0
+	+	53	0
+	+	53	102
+	+	53	0
+	+	53	119
+	+	53	0
+	+	53	127
+	+	53	0
+	+	53	135
+	+	53	0
+	+	53	197
+	+	16	47
+	+	59	0
+	+	61	87
+	+	61	0
+	+	61	209
+	+	61	0
+	+	61	215
+	+	61	113
+	+	61	172
+	+	61	0
+	+	61	171
+	+	60	131
+	+	60	0
+	+	60	145
+	+	60	0
+	+	60	148
+	+	60	0
+	+	60	163
+	+	60	0
+	+	60	167
+	+	58	149
+	+	60	175
+	+	60	0
+	+	60	183
+	+	60	0
+	+	60	217
+	+	60	0
+	+	60	219
+	+	53	129
+	+	63	36
+	+	64	0
+	+	65	78
+	+	65	225
+	+	63	25
+	+	65	225
+	+	65	78
+	+	66	0
+	+	68	0
+	+	67	1
+	+	65	70
+	+	67	143
+	+	68	1
+	+	65	71
+	+	69	94
+	+	69	0
+	+	69	100
+	+	69	0
+	+	70	89
+	+	70	131
+	+	70	73
+	+	25	73
+	+	70	144
+	+	70	0
+	+	70	172
+	+	71	0
+	+	72	35
+	+	73	4
+	+	74	48
+	+	75	0
+	+	77	0
+	+	76	0
+	+	72	26
+	+	76	0
+	+	72	0
+	+	76	81
+	+	76	0
+	+	76	89
+	+	72	27
+	+	35	0
+	+	37	0
+	+	36	55
+	+	61	333
+	+	61	0
+	+	61	337
+	+	3	49
+	+	77	0
+	+	73	0
+	+	68	0
+	+	65	0
+	+	59	0
+	+	54	0
+	+	50	0
+	+	44	0
+	+	37	0
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/machine-learning/info.yaml
+	*	1652374422	0
+	"	2	9
+	^	2	10
+	.	2	9
+	+	1	39
+	+	2	9
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/thesis/bkp/master.toc
+	*	1651591593	0
+	"	16	109
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/english/summary/master.tex
+	*	1651158105	0
+	"	12	454
+	^	1	27
+	.	1	26
+	+	2	0
+	+	1	29
+	+	3	77
+	+	1	22
+	+	3	0
+	+	1	26
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/english/iral/master.tex
+	*	1650532157	0
+	"	7	21
+	^	7	22
+	.	7	0
+	+	4	20
+	+	3	21
+	+	15	183
+	+	3	25
+	+	4	0
+	+	11	46
+	+	3	21
+	+	8	8
+	+	7	0
+
+> ~/.config/sxhkd/sxhkdrc
+	*	1649340358	0
+	"	133	0
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/other/cv/CV.tex
+	*	1649111127	0
+	"	79	150
+	^	79	151
+	.	79	150
+	+	53	0
+	+	53	466
+	+	54	611
+	+	53	369
+	+	76	0
+	+	54	411
+	+	68	8
+	+	76	0
+	+	67	0
+	+	69	63
+	+	70	18
+	+	71	43
+	+	71	23
+	+	76	0
+	+	71	65
+	+	69	15
+	+	71	37
+	+	72	41
+	+	77	0
+	+	73	34
+	+	74	72
+	+	75	11
+	+	74	12
+	+	75	13
+	+	69	14
+	+	72	11
+	+	77	14
+	+	78	143
+	+	79	73
+	+	78	127
+	+	79	187
+	+	79	0
+	+	79	200
+	+	85	86
+	+	89	0
+	+	55	0
+	+	59	0
+	+	80	0
+	+	85	141
+	+	85	0
+	+	89	0
+	+	85	31
+	+	86	159
+	+	87	54
+	+	86	53
+	+	85	41
+	+	87	115
+	+	79	200
+	+	88	60
+	+	86	0
+	+	88	57
+	+	88	203
+	+	1	16
+	+	88	19
+	+	86	138
+	+	87	129
+	+	48	29
+	+	49	112
+	+	37	93
+	+	49	119
+	+	88	36
+	+	85	101
+	+	87	0
+	+	86	112
+	+	87	82
+	+	88	85
+	+	72	13
+	+	74	13
+	+	75	0
+	+	88	0
+	+	72	14
+	+	74	8
+	+	75	8
+	+	74	8
+	+	75	22
+	+	74	22
+	+	72	22
+	+	69	15
+	+	37	21
+	+	86	107
+	+	85	0
+	+	85	109
+	+	86	195
+	+	87	178
+	+	85	106
+	+	47	61
+	+	47	8
+	+	49	122
+	+	47	60
+	+	47	0
+	+	47	32
+	+	48	10
+	+	47	61
+	+	47	75
+	+	47	0
+	+	48	0
+	+	52	33
+	+	79	150
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/other/transcript/Transcript_MIPT.tex
+	*	1649094966	0
+	"	258	4
+	^	248	2
+	.	49	38
+	+	50	21
+	+	50	16
+	+	50	0
+	+	50	29
+	+	50	0
+	+	50	21
+	+	50	30
+	+	50	0
+	+	50	16
+	+	50	26
+	+	50	0
+	+	50	20
+	+	50	19
+	+	50	0
+	+	50	13
+	+	50	21
+	+	50	48
+	+	50	53
+	+	50	76
+	+	50	45
+	+	50	0
+	+	50	76
+	+	50	51
+	+	50	0
+	+	50	6
+	+	50	0
+	+	50	27
+	+	50	0
+	+	50	1
+	+	50	0
+	+	50	27
+	+	50	0
+	+	50	1
+	+	50	0
+	+	42	0
+	+	43	121
+	+	49	0
+	+	49	42
+	+	50	53
+	+	1	30
+	+	50	71
+	+	50	58
+	+	50	0
+	+	50	16
+	+	50	71
+	+	50	0
+	+	236	0
+	+	237	10
+	+	237	0
+	+	249	0
+	+	237	0
+	+	237	10
+	+	238	0
+	+	218	12
+	+	230	15
+	+	230	16
+	+	116	11
+	+	164	16
+	+	176	0
+	+	178	0
+	+	230	0
+	+	214	0
+	+	234	0
+	+	216	0
+	+	230	0
+	+	220	0
+	+	226	0
+	+	226	85
+	+	230	0
+	+	231	0
+	+	232	0
+	+	249	0
+	+	49	38
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/other/transcript2/Transcript_MIPT.tex
+	*	1649030223	0
+	"	21	7
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/other/transcript2/Transcript_MIPT.
+	*	1649030218	0
+	"	1	0
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/other/transcript/Transcript_MIPT.
+	*	1649029360	0
+	"	1	0
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/other/draf/master.tex
+	*	1649023604	0
+	"	1	0
+
+> ~/preamble
+	*	1649023480	0
+	"	1	0
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/other/transcript/master.tex
+	*	1648929259	0
+	"	1	0
+
+> ~/.vimrc
+	*	1648907125	0
+	"	209	24
+	^	209	25
+	.	209	24
+	+	212	0
+	+	206	1
+	+	208	19
+	+	209	24
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/prob/master.tex
+	*	1648309885	0
+	"	66	0
+	^	4	61
+	.	4	59
+	+	89	0
+	+	89	39
+	+	89	0
+	+	7	0
+	+	8	0
+	+	89	116
+	+	89	0
+	+	89	153
+	+	89	0
+	+	89	157
+	+	89	28
+	+	89	26
+	+	89	67
+	+	89	113
+	+	89	0
+	+	89	118
+	+	28	107
+	+	29	48
+	+	28	75
+	+	29	80
+	+	37	80
+	+	37	0
+	+	37	90
+	+	38	57
+	+	39	0
+	+	41	0
+	+	40	85
+	+	43	0
+	+	48	0
+	+	44	0
+	+	45	29
+	+	46	6
+	+	45	0
+	+	48	0
+	+	49	87
+	+	50	0
+	+	50	87
+	+	50	0
+	+	50	102
+	+	49	0
+	+	50	106
+	+	50	0
+	+	50	112
+	+	50	0
+	+	50	147
+	+	58	83
+	+	58	0
+	+	58	88
+	+	59	0
+	+	59	54
+	+	60	81
+	+	61	0
+	+	64	0
+	+	62	41
+	+	63	37
+	+	59	38
+	+	60	51
+	+	65	79
+	+	66	92
+	+	67	21
+	+	65	72
+	+	70	0
+	+	73	0
+	+	71	51
+	+	72	39
+	+	73	2
+	+	75	0
+	+	79	0
+	+	76	49
+	+	77	46
+	+	78	12
+	+	80	82
+	+	80	0
+	+	80	91
+	+	82	0
+	+	84	0
+	+	83	30
+	+	86	0
+	+	88	0
+	+	87	60
+	+	89	0
+	+	30	0
+	+	89	0
+	+	30	0
+	+	22	0
+	+	30	0
+	+	89	0
+	+	51	0
+	+	89	0
+	+	4	59
+
+> ~/.vim/plugged/vimtex/doc/vimtex.txt
+	*	1648309856	0
+	"	5195	29
+
+> ~/university-setup/scripts/config.py
+	*	1648306731	0
+	"	17	52
+	.	17	52
+	+	17	52
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/diploma/bkp/master.tex
+	*	1648306406	0
+	"	27	37
+	.	10	0
+	+	283	40
+	+	285	0
+	+	288	0
+	+	286	48
+	+	287	72
+	+	288	0
+	+	289	46
+	+	290	0
+	+	290	88
+	+	290	0
+	+	290	92
+	+	290	0
+	+	290	99
+	+	290	0
+	+	290	135
+	+	290	0
+	+	290	43
+	+	290	11
+	+	290	0
+	+	6	0
+	+	9	0
+	+	7	0
+	+	271	58
+	+	263	39
+	+	290	88
+	+	223	0
+	+	230	0
+	+	259	0
+	+	264	0
+	+	268	0
+	+	272	0
+	+	274	0
+	+	278	0
+	+	284	0
+	+	288	0
+	+	290	0
+	+	430	25
+	+	393	0
+	+	398	0
+	+	404	0
+	+	420	15
+	+	429	14
+	+	433	0
+	+	440	0
+	+	445	0
+	+	460	0
+	+	468	0
+	+	273	94
+	+	273	0
+	+	273	103
+	+	274	0
+	+	290	79
+	+	236	0
+	+	239	0
+	+	237	51
+	+	238	53
+	+	237	12
+	+	291	0
+	+	491	0
+	+	318	52
+	+	320	0
+	+	321	0
+	+	329	0
+	+	332	0
+	+	330	0
+	+	330	98
+	+	330	0
+	+	330	101
+	+	330	0
+	+	330	103
+	+	331	39
+	+	330	0
+	+	330	122
+	+	330	0
+	+	330	101
+	+	330	0
+	+	330	94
+	+	330	0
+	+	330	97
+	+	332	0
+	+	315	78
+	+	314	69
+	+	315	93
+	+	316	97
+	+	317	82
+	+	330	107
+	+	319	98
+	+	322	0
+	+	323	4
+	+	327	0
+	+	328	0
+	+	9	0
+	+	10	0
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/diploma/bkp/master.toc
+	*	1648293189	0
+	"	7	0
+
+> /tmp/tmpx560qv0f.tex
+	*	1648204293	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
+
+> /tmp/tmpm3v4otdw.tex
+	*	1648204268	0
+	"	1	27
+	^	1	28
+	.	1	27
+	+	1	27
+
+> /tmp/tmpwqw7nufr.tex
+	*	1648203966	0
+	"	1	6
+	^	1	7
+	.	1	6
+	+	1	6
+
+> /tmp/tmp21h2m20d.tex
+	*	1648203948	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> /tmp/tmp43_1b0wm.tex
+	*	1648203925	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> /tmp/tmpk5xrawkz.tex
+	*	1648203543	0
+	"	1	24
+	^	1	26
+	.	1	24
+	+	1	24
+
+> /tmp/tmpvfm7sq3o.tex
+	*	1648203521	0
+	"	1	24
+	^	1	26
+	.	1	26
+	+	1	26
+
+> /tmp/tmpaehdkceq.tex
+	*	1648203310	0
+	"	1	23
+	^	1	25
+	.	1	25
+	+	1	25
+
+> /tmp/tmpg6xcxzxz.tex
+	*	1648203220	0
+	"	1	23
+	^	1	25
+	.	1	23
+	+	1	23
+
+> /tmp/tmpkmgfx_vm.tex
+	*	1648201867	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> /tmp/tmpuub_u2rb.tex
+	*	1648201848	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> /tmp/tmpwt8qxtbn.tex
+	*	1648201833	0
+	"	1	12
+	^	1	13
+	.	1	12
+	+	1	12
+
+> /tmp/tmpuvuw8mmd.tex
+	*	1648201813	0
+	"	1	12
+	^	1	13
+	.	1	12
+	+	1	12
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/matrix-models/kontsevich/master.tex
+	*	1644997117	0
+	"	28	15
+	^	25	0
+	.	27	11
+	+	4	27
+	+	8	0
+	+	15	0
+	+	9	20
+	+	9	68
+	+	9	70
+	+	11	30
+	+	12	0
+	+	12	41
+	+	13	42
+	+	14	30
+	+	12	37
+	+	9	28
+	+	17	0
+	+	19	0
+	+	18	26
+	+	20	10
+	+	21	0
+	+	24	18
+	+	28	0
+	+	22	0
+	+	24	0
+	+	22	0
+	+	28	0
+	+	24	0
+	+	22	0
+	+	28	0
+	+	23	2
+	+	28	0
+	+	24	42
+	+	28	1
+	+	24	0
+	+	24	31
+	+	24	0
+	+	28	0
+	+	24	0
+	+	14	0
+	+	12	0
+	+	18	0
+	+	24	0
+	+	23	0
+	+	22	35
+	+	23	0
+	+	22	73
+	+	23	0
+	+	9	29
+	+	24	91
+	+	24	0
+	+	24	88
+	+	18	0
+	+	18	122
+	+	18	0
+	+	24	0
+	+	24	25
+	+	24	108
+	+	28	0
+	+	25	0
+	+	26	81
+	+	27	11
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/supersymmetry/draft/master.tex
+	*	1644656048	0
+	"	34	62
+	^	34	63
+	.	34	62
+	+	7	0
+	+	12	0
+	+	8	0
+	+	8	36
+	+	10	33
+	+	8	16
+	+	10	44
+	+	36	0
+	+	10	37
+	+	11	43
+	+	8	16
+	+	10	25
+	+	11	43
+	+	9	25
+	+	13	0
+	+	15	0
+	+	14	31
+	+	16	0
+	+	18	0
+	+	17	22
+	+	19	0
+	+	22	0
+	+	20	52
+	+	21	52
+	+	17	11
+	+	20	20
+	+	21	42
+	+	7	0
+	+	8	0
+	+	23	0
+	+	29	0
+	+	24	46
+	+	25	44
+	+	26	45
+	+	27	46
+	+	28	41
+	+	24	13
+	+	28	75
+	+	36	0
+	+	36	18
+	+	36	32
+	+	36	4
+	+	36	26
+	+	36	15
+	+	36	48
+	+	36	25
+	+	36	14
+	+	36	11
+	+	24	11
+	+	25	36
+	+	37	0
+	+	27	42
+	+	30	0
+	+	35	0
+	+	31	82
+	+	31	0
+	+	31	93
+	+	32	0
+	+	31	11
+	+	32	52
+	+	33	19
+	+	34	62
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/supersymmetry/draft
+	*	1644255232	0
+	"	1	0
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/condensed-matter/info.yaml
+	*	1644083400	0
+	"	2	10
+	^	2	12
+	.	2	10
+	+	1	92
+	+	2	10
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/other/info.yaml
+	*	1644083342	0
+	"	2	10
+	^	2	12
+	.	2	10
+	+	1	18
+	+	2	10
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/diploma/info.yaml
+	*	1644083261	0
+	"	2	10
+	^	2	14
+	.	2	12
+	+	1	18
+	+	2	12
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/life-safety/info.yaml
+	*	1644083200	0
+	"	3	0
+	^	2	14
+	.	2	12
+	+	1	12
+	+	2	12
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/matrix-models/info.yaml
+	*	1644083163	0
+	"	2	10
+	^	2	12
+	.	2	10
+	+	1	37
+	+	2	10
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/supersymmetry/info.yaml
+	*	1644083141	0
+	"	2	11
+	^	2	12
+	.	2	11
+	+	1	54
+	+	2	11
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/english/info.yaml
+	*	1644083112	0
+	"	2	14
+	^	2	16
+	.	2	14
+	+	1	35
+	+	2	14
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/philosophy/info.yaml
+	*	1644083080	0
+	"	2	14
+	^	2	16
+	.	2	14
+	+	1	24
+	+	2	14
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/physical-kinetics/info.yaml
+	*	1644083054	0
+	"	2	12
+	^	2	13
+	.	2	12
+	+	1	24
+	+	2	14
+	+	1	43
+	+	2	12
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-2/general-relativity-and-cosmology/info.yaml
+	*	1644082922	0
+	"	1	84
+	^	1	86
+	.	1	84
+	+	1	84
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-1/quantum-field-theory/sanya/master.tex
+	*	1642069321	0
+	"	13	17
+	^	13	18
+	.	13	17
+	+	15	0
+	+	21	0
+	+	16	38
+	+	17	0
+	+	17	100
+	+	17	0
+	+	17	113
+	+	18	100
+	+	19	3
+	+	21	0
+	+	19	42
+	+	20	85
+	+	17	115
+	+	7	0
+	+	14	0
+	+	8	95
+	+	8	0
+	+	8	109
+	+	8	0
+	+	8	131
+	+	8	0
+	+	8	145
+	+	8	0
+	+	8	160
+	+	9	83
+	+	9	0
+	+	9	104
+	+	10	60
+	+	8	162
+	+	14	0
+	+	11	53
+	+	12	30
+	+	11	59
+	+	13	17
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-1/quantum-field-theory/prop/master.tex
+	*	1642068542	0
+	"	16	3
+	^	16	4
+	.	16	0
+	+	7	0
+	+	9	0
+	+	7	19
+	+	10	0
+	+	17	0
+	+	11	0
+	+	13	0
+	+	12	4
+	+	14	0
+	+	16	0
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-1/statistical-physics/exam/master.tex
+	*	1640860580	0
+	"	185	61
+	^	167	1
+	.	168	0
+	+	586	155
+	+	586	0
+	+	586	174
+	+	588	0
+	+	591	0
+	+	589	51
+	+	590	11
+	+	593	0
+	+	595	0
+	+	594	0
+	+	594	80
+	+	594	0
+	+	594	94
+	+	594	0
+	+	594	115
+	+	595	3
+	+	597	0
+	+	604	0
+	+	598	0
+	+	599	12
+	+	600	24
+	+	601	38
+	+	602	4
+	+	581	0
+	+	583	0
+	+	585	0
+	+	584	7
+	+	606	0
+	+	608	0
+	+	606	29
+	+	607	277
+	+	607	184
+	+	607	0
+	+	607	201
+	+	607	0
+	+	607	212
+	+	607	0
+	+	609	0
+	+	620	0
+	+	611	0
+	+	615	0
+	+	612	0
+	+	607	91
+	+	607	0
+	+	607	90
+	+	612	50
+	+	613	25
+	+	613	0
+	+	612	27
+	+	613	16
+	+	612	34
+	+	613	0
+	+	612	19
+	+	614	0
+	+	617	0
+	+	619	0
+	+	618	9
+	+	621	0
+	+	623	0
+	+	621	29
+	+	622	145
+	+	622	0
+	+	622	145
+	+	622	0
+	+	622	91
+	+	622	0
+	+	622	90
+	+	621	30
+	+	624	0
+	+	635	0
+	+	625	16
+	+	616	31
+	+	625	85
+	+	625	0
+	+	625	98
+	+	625	0
+	+	627	0
+	+	630	0
+	+	628	53
+	+	629	28
+	+	628	25
+	+	612	36
+	+	635	0
+	+	629	65
+	+	632	0
+	+	634	0
+	+	633	9
+	+	635	0
+	+	144	39
+	+	149	0
+	+	150	0
+	+	124	68
+	+	125	0
+	+	129	0
+	+	128	37
+	+	124	68
+	+	167	0
+	+	168	0
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-1/statistical-physics/hw1/master.tex
+	*	1640796213	0
+	"	2725	0
+	^	2834	59
+	.	2834	58
+	+	3220	0
+	+	3220	134
+	+	3222	0
+	+	3249	0
+	+	3223	61
+	+	3225	0
+	+	3229	0
+	+	3226	34
+	+	3227	40
+	+	3228	32
+	+	3230	0
+	+	3232	0
+	+	3231	0
+	+	3231	82
+	+	3231	0
+	+	3231	95
+	+	3231	0
+	+	3231	150
+	+	3233	101
+	+	3233	0
+	+	3233	106
+	+	3233	0
+	+	3233	112
+	+	3234	53
+	+	3235	0
+	+	3241	0
+	+	3236	51
+	+	3237	43
+	+	3238	40
+	+	3239	49
+	+	3240	44
+	+	3242	66
+	+	3243	9
+	+	3244	0
+	+	3247	0
+	+	3245	39
+	+	3246	11
+	+	3245	30
+	+	3242	50
+	+	3240	39
+	+	3238	19
+	+	3237	35
+	+	3246	69
+	+	3247	0
+	+	3248	65
+	+	3250	0
+	+	3252	0
+	+	3250	29
+	+	3251	81
+	+	3253	0
+	+	3278	0
+	+	3255	0
+	+	3257	0
+	+	3256	46
+	+	3259	0
+	+	3262	0
+	+	3260	39
+	+	3261	31
+	+	3262	2
+	+	3264	0
+	+	3268	0
+	+	3265	0
+	+	3265	99
+	+	3266	59
+	+	3267	50
+	+	3270	0
+	+	3272	0
+	+	3271	100
+	+	3271	0
+	+	3271	106
+	+	3271	0
+	+	3271	121
+	+	3271	0
+	+	3271	130
+	+	3271	0
+	+	3271	154
+	+	3272	0
+	+	3274	0
+	+	3277	0
+	+	3275	83
+	+	3275	0
+	+	3275	87
+	+	3275	0
+	+	3275	94
+	+	3275	0
+	+	3275	113
+	+	3275	117
+	+	3275	0
+	+	3275	140
+	+	3276	86
+	+	2826	0
+	+	2827	58
+	+	2828	55
+	+	2829	51
+	+	2830	27
+	+	2831	54
+	+	2832	50
+	+	2833	60
+	+	2834	58
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-1/statistical-physics/hw1/figures/hw1/master.tex
+	*	1640787741	0
+	"	1	0
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-1/statistical-physics/1/master.tex
+	*	1640275089	0
+	"	28	13
+	^	26	49
+	.	26	48
+	+	7	0
+	+	9	0
+	+	8	41
+	+	10	0
+	+	14	0
+	+	11	55
+	+	12	53
+	+	13	16
+	+	15	0
+	+	17	0
+	+	16	48
+	+	17	0
+	+	18	0
+	+	19	18
+	+	21	0
+	+	23	0
+	+	22	32
+	+	24	0
+	+	25	30
+	+	26	48
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-1/preamble.tex
+	*	1640121421	0
+	"	53	0
+	^	53	1
+	.	53	0
+	+	189	0
+	+	252	0
+	+	188	0
+	+	155	0
+	+	165	0
+	+	22	0
+	+	24	44
+	+	38	0
+	+	37	0
+	+	14	0
+	+	17	0
+	+	136	4
+	+	137	0
+	+	169	0
+	+	124	35
+	+	15	0
+	+	16	0
+	+	37	0
+	+	14	0
+	+	52	38
+	+	185	0
+	+	184	13
+	+	76	0
+	+	86	0
+	+	85	32
+	+	86	42
+	+	87	35
+	+	86	33
+	+	48	35
+	+	53	24
+	+	54	0
+	+	53	0
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-1/general-relativity/hw1/master.tex
+	*	1640117919	0
+	"	449	17
+	^	440	0
+	.	440	0
+	+	372	32
+	+	373	12
+	+	374	0
+	+	428	0
+	+	375	42
+	+	376	0
+	+	377	85
+	+	378	62
+	+	381	90
+	+	384	0
+	+	387	0
+	+	385	85
+	+	386	24
+	+	389	0
+	+	393	0
+	+	390	79
+	+	391	47
+	+	392	9
+	+	395	0
+	+	397	0
+	+	396	81
+	+	396	0
+	+	396	97
+	+	396	0
+	+	396	119
+	+	398	96
+	+	408	0
+	+	413	0
+	+	409	47
+	+	410	43
+	+	411	66
+	+	412	72
+	+	414	10
+	+	411	68
+	+	413	0
+	+	414	96
+	+	415	0
+	+	418	0
+	+	416	92
+	+	417	46
+	+	418	0
+	+	420	0
+	+	422	0
+	+	421	23
+	+	424	0
+	+	426	0
+	+	425	54
+	+	416	51
+	+	429	0
+	+	430	0
+	+	429	32
+	+	430	0
+	+	431	0
+	+	439	0
+	+	432	62
+	+	433	0
+	+	437	0
+	+	434	50
+	+	435	36
+	+	436	69
+	+	438	94
+	+	438	0
+	+	438	95
+	+	438	0
+	+	438	107
+	+	438	0
+	+	438	108
+	+	438	0
+	+	438	120
+	+	438	0
+	+	438	127
+	+	438	0
+	+	438	131
+	+	438	0
+	+	438	224
+	+	438	0
+	+	438	338
+	+	441	0
+	+	442	0
+	+	441	34
+	+	442	12
+	+	443	0
+	+	453	0
+	+	447	49
+	+	448	0
+	+	450	0
+	+	449	16
+	+	450	1
+	+	451	104
+	+	452	20
+	+	441	0
+	+	442	0
+	+	440	0
+	+	440	6
+	+	441	0
+	+	440	0
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-1/statistical-physics/quest/master.tex
+	*	1639819498	0
+	"	222	1
+	.	211	0
+	+	928	75
+	+	928	17
+	+	928	36
+	+	972	0
+	+	930	0
+	+	936	0
+	+	931	40
+	+	928	105
+	+	928	17
+	+	928	104
+	+	936	1
+	+	932	41
+	+	933	31
+	+	934	45
+	+	935	0
+	+	935	35
+	+	934	12
+	+	929	39
+	+	936	0
+	+	937	0
+	+	936	0
+	+	938	0
+	+	943	0
+	+	939	31
+	+	940	32
+	+	941	38
+	+	942	56
+	+	943	56
+	+	943	4
+	+	943	16
+	+	943	4
+	+	943	19
+	+	943	0
+	+	947	40
+	+	950	0
+	+	953	0
+	+	951	0
+	+	951	83
+	+	951	0
+	+	951	97
+	+	951	0
+	+	951	138
+	+	952	76
+	+	955	0
+	+	961	4
+	+	956	30
+	+	957	34
+	+	958	36
+	+	959	62
+	+	951	63
+	+	952	48
+	+	959	91
+	+	959	0
+	+	959	97
+	+	959	0
+	+	959	104
+	+	959	0
+	+	959	119
+	+	959	0
+	+	959	133
+	+	957	38
+	+	960	70
+	+	962	87
+	+	964	0
+	+	965	66
+	+	968	0
+	+	971	0
+	+	969	40
+	+	970	26
+	+	960	38
+	+	962	90
+	+	514	0
+	+	514	71
+	+	514	0
+	+	490	43
+	+	211	27
+	+	146	42
+	+	148	9
+	+	142	47
+	+	143	86
+	+	141	45
+	+	143	86
+	+	143	0
+	+	143	93
+	+	143	0
+	+	143	122
+	+	211	0
+	+	211	13
+	+	211	28
+	+	212	42
+	+	214	9
+	+	211	0
+	+	205	0
+	+	211	0
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-1/statistical-physics/quest/figures/1.pdf_tex
+	*	1639693353	0
+	"	56	4
+
+> /tmp/tmp_y19th5i.tex
+	*	1639692136	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> /tmp/tmpa6kjtogp.tex
+	*	1639692128	0
+	"	1	14
+	^	1	15
+	.	1	0
+	+	1	0
+
+> /tmp/tmph57j1nfr.tex
+	*	1639692056	0
+	"	1	55
+	^	1	56
+	.	1	55
+	+	1	55
+
+> /tmp/tmpqqyggkbz.tex
+	*	1639692011	0
+	"	1	3
+	^	1	4
+	.	1	4
+	+	1	4
+
+> /tmp/tmp1k0bqtjn.tex
+	*	1639691997	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> /tmp/tmp_r1nku35.tex
+	*	1639691989	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> /tmp/tmpjqgfn2uq.tex
+	*	1639691980	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-1/matrix-models/5/master.tex
+	*	1639670885	0
+	"	20	13
+	^	20	14
+	.	19	0
+	+	6	1
+	+	7	94
+	+	9	0
+	+	14	0
+	+	10	42
+	+	11	27
+	+	10	0
+	+	11	49
+	+	12	0
+	+	11	30
+	+	10	31
+	+	12	57
+	+	13	37
+	+	12	59
+	+	14	0
+	+	13	0
+	+	15	7
+	+	10	24
+	+	15	0
+	+	16	0
+	+	18	0
+	+	17	37
+	+	19	0
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-1/matrix-models/quest/master.tex
+	*	1639652224	0
+	"	1	0
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-1/matrix-models/kontsevich/master.tex
+	*	1639646379	0
+	"	20	3
+	^	35	36
+	.	35	35
+	+	4	27
+	+	7	6
+	+	8	0
+	+	14	0
+	+	9	56
+	+	10	0
+	+	10	82
+	+	10	0
+	+	10	98
+	+	11	46
+	+	12	29
+	+	13	62
+	+	10	0
+	+	11	0
+	+	10	85
+	+	10	0
+	+	13	37
+	+	14	0
+	+	15	103
+	+	18	0
+	+	19	54
+	+	20	0
+	+	22	0
+	+	32	0
+	+	32	112
+	+	32	45
+	+	32	0
+	+	23	0
+	+	37	0
+	+	21	54
+	+	23	1
+	+	24	46
+	+	32	0
+	+	21	10
+	+	26	48
+	+	27	0
+	+	25	53
+	+	27	26
+	+	28	32
+	+	15	140
+	+	28	37
+	+	28	33
+	+	28	37
+	+	28	34
+	+	28	45
+	+	28	88
+	+	28	115
+	+	29	48
+	+	30	25
+	+	31	13
+	+	28	0
+	+	28	117
+	+	31	45
+	+	29	28
+	+	28	83
+	+	31	37
+	+	34	0
+	+	36	0
+	+	35	35
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-1/matrix-models/hw/master.tex
+	*	1639604524	0
+	"	36	73
+	^	36	46
+	.	36	45
+	+	6	0
+	+	7	0
+	+	11	0
+	+	9	43
+	+	10	32
+	+	12	0
+	+	16	0
+	+	13	40
+	+	14	58
+	+	14	27
+	+	17	0
+	+	18	48
+	+	14	0
+	+	19	47
+	+	20	0
+	+	19	0
+	+	22	0
+	+	23	66
+	+	24	85
+	+	25	40
+	+	25	44
+	+	26	0
+	+	25	108
+	+	26	0
+	+	24	65
+	+	27	0
+	+	28	30
+	+	29	0
+	+	30	0
+	+	39	0
+	+	30	0
+	+	31	52
+	+	32	2
+	+	31	40
+	+	32	27
+	+	33	11
+	+	32	15
+	+	34	0
+	+	35	16
+	+	36	45
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-1/probability-theory/twoenv/master.tex
+	*	1639306700	0
+	"	72	70
+	^	64	70
+	.	64	68
+	+	32	249
+	+	32	166
+	+	58	234
+	+	58	0
+	+	58	233
+	+	58	360
+	+	58	0
+	+	58	363
+	+	58	470
+	+	58	492
+	+	58	161
+	+	59	31
+	+	62	87
+	+	63	33
+	+	31	822
+	+	63	92
+	+	64	91
+	+	65	78
+	+	66	38
+	+	68	0
+	+	69	87
+	+	70	92
+	+	71	82
+	+	72	76
+	+	74	0
+	+	79	0
+	+	75	38
+	+	63	67
+	+	69	25
+	+	70	74
+	+	71	64
+	+	72	1
+	+	75	89
+	+	76	43
+	+	77	37
+	+	78	52
+	+	75	0
+	+	75	84
+	+	54	18
+	+	25	19
+	+	81	0
+	+	85	0
+	+	82	50
+	+	84	47
+	+	85	3
+	+	87	0
+	+	91	0
+	+	88	38
+	+	89	42
+	+	90	26
+	+	92	87
+	+	93	58
+	+	94	45
+	+	95	0
+	+	96	51
+	+	97	0
+	+	98	54
+	+	96	39
+	+	98	102
+	+	99	52
+	+	102	62
+	+	103	0
+	+	105	0
+	+	104	28
+	+	101	82
+	+	106	163
+	+	106	0
+	+	106	260
+	+	106	0
+	+	106	267
+	+	106	0
+	+	106	276
+	+	106	0
+	+	106	312
+	+	108	0
+	+	110	0
+	+	109	35
+	+	110	3
+	+	111	87
+	+	111	0
+	+	111	134
+	+	111	0
+	+	111	137
+	+	113	107
+	+	115	59
+	+	116	95
+	+	117	72
+	+	20	58
+	+	20	184
+	+	29	11
+	+	32	283
+	+	32	386
+	+	32	575
+	+	32	680
+	+	32	901
+	+	32	1148
+	+	32	1276
+	+	49	64
+	+	64	68
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-1/probability-theory/debil/master.tex
+	*	1639170131	0
+	"	346	145
+	^	346	147
+	.	346	147
+	+	285	56
+	+	286	86
+	+	289	8
+	+	238	0
+	+	236	60
+	+	236	0
+	+	237	0
+	+	236	23
+	+	288	0
+	+	289	0
+	+	289	15
+	+	288	13
+	+	289	0
+	+	323	0
+	+	289	0
+	+	324	125
+	+	324	205
+	+	324	124
+	+	324	204
+	+	324	8
+	+	327	64
+	+	325	149
+	+	327	62
+	+	325	98
+	+	326	57
+	+	330	165
+	+	329	104
+	+	330	27
+	+	329	34
+	+	330	99
+	+	374	0
+	+	330	35
+	+	331	30
+	+	331	93
+	+	330	28
+	+	332	0
+	+	327	63
+	+	334	0
+	+	337	0
+	+	335	54
+	+	336	56
+	+	339	11
+	+	338	94
+	+	338	0
+	+	338	41
+	+	338	125
+	+	339	44
+	+	333	247
+	+	333	0
+	+	333	282
+	+	340	0
+	+	342	0
+	+	341	31
+	+	343	30
+	+	339	173
+	+	344	106
+	+	346	118
+	+	346	159
+	+	347	103
+	+	348	12
+	+	347	101
+	+	348	54
+	+	349	0
+	+	350	96
+	+	351	23
+	+	351	76
+	+	354	57
+	+	354	58
+	+	355	0
+	+	357	0
+	+	356	0
+	+	357	3
+	+	358	88
+	+	359	76
+	+	360	0
+	+	362	0
+	+	361	31
+	+	365	0
+	+	368	0
+	+	366	51
+	+	367	18
+	+	369	0
+	+	358	73
+	+	369	94
+	+	370	84
+	+	371	0
+	+	373	0
+	+	372	29
+	+	346	125
+	+	346	0
+	+	346	147
+	+	346	0
+	+	346	147
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-1/english/pres2/master.tex
+	*	1638587563	0
+	"	36	24
+	^	36	25
+	.	36	25
+	+	18	8
+	+	20	43
+	+	33	0
+	+	32	0
+	+	33	0
+	+	32	9
+	+	37	0
+	+	36	0
+	+	37	0
+	+	36	27
+	+	37	134
+	+	32	31
+	+	43	10
+	+	47	25
+	+	49	21
+	+	47	98
+	+	53	0
+	+	52	9
+	+	60	0
+	+	56	39
+	+	60	0
+	+	56	26
+	+	58	0
+	+	60	0
+	+	57	0
+	+	58	5
+	+	56	26
+	+	58	38
+	+	56	127
+	+	62	0
+	+	48	0
+	+	39	0
+	+	38	0
+	+	35	9
+	+	39	45
+	+	36	27
+	+	39	35
+	+	39	0
+	+	36	28
+	+	43	9
+	+	36	25
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-1/quantum-field-theory/hwkisel/master.tex
+	*	1638577597	0
+	"	16	29
+	^	9	11
+	.	9	11
+	+	352	0
+	+	356	0
+	+	353	45
+	+	354	17
+	+	355	25
+	+	356	1
+	+	358	0
+	+	366	0
+	+	359	47
+	+	360	41
+	+	361	38
+	+	362	27
+	+	363	57
+	+	366	0
+	+	364	44
+	+	365	52
+	+	366	0
+	+	367	79
+	+	368	0
+	+	369	18
+	+	363	56
+	+	369	20
+	+	371	90
+	+	373	0
+	+	377	0
+	+	374	32
+	+	375	85
+	+	376	59
+	+	375	87
+	+	377	17
+	+	379	110
+	+	379	0
+	+	379	142
+	+	380	72
+	+	381	24
+	+	382	103
+	+	384	0
+	+	387	0
+	+	385	43
+	+	386	39
+	+	387	0
+	+	388	101
+	+	287	55
+	+	390	0
+	+	393	0
+	+	391	46
+	+	392	19
+	+	394	98
+	+	395	72
+	+	396	0
+	+	398	0
+	+	397	47
+	+	400	40
+	+	399	113
+	+	401	0
+	+	407	0
+	+	402	0
+	+	402	116
+	+	402	0
+	+	402	128
+	+	402	0
+	+	402	134
+	+	402	0
+	+	402	155
+	+	403	48
+	+	404	60
+	+	407	0
+	+	404	89
+	+	405	40
+	+	406	61
+	+	404	62
+	+	408	0
+	+	410	0
+	+	418	0
+	+	411	43
+	+	412	26
+	+	413	44
+	+	414	28
+	+	415	54
+	+	418	0
+	+	416	0
+	+	418	0
+	+	416	48
+	+	417	0
+	+	417	50
+	+	409	36
+	+	419	100
+	+	420	71
+	+	421	82
+	+	421	0
+	+	421	83
+	+	423	81
+	+	423	0
+	+	423	82
+	+	424	90
+	+	425	45
+	+	428	0
+	+	430	0
+	+	428	85
+	+	9	11
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-1/english/notes/master.tex
+	*	1638573051	0
+	"	17	9
+	.	4	0
+	+	4	29
+	+	72	0
+	+	6	0
+	+	71	95
+	+	9	0
+	+	7	0
+	+	9	15
+	+	10	0
+	+	11	0
+	+	12	0
+	+	7	0
+	+	12	79
+	+	16	0
+	+	13	0
+	+	16	0
+	+	15	0
+	+	16	49
+	+	17	10
+	+	18	20
+	+	20	0
+	+	19	0
+	+	20	26
+	+	25	0
+	+	20	25
+	+	22	48
+	+	21	0
+	+	23	0
+	+	28	0
+	+	27	61
+	+	29	29
+	+	32	0
+	+	33	20
+	+	34	0
+	+	35	20
+	+	36	36
+	+	37	0
+	+	36	25
+	+	38	63
+	+	39	0
+	+	40	21
+	+	41	0
+	+	42	11
+	+	45	0
+	+	46	28
+	+	46	157
+	+	48	0
+	+	47	0
+	+	48	31
+	+	48	277
+	+	48	386
+	+	50	0
+	+	49	0
+	+	50	38
+	+	8	0
+	+	4	38
+	+	8	0
+	+	4	0
+
+> /tmp/tmpbm8s9syg.tex
+	*	1638569985	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> /tmp/tmpx0y4adae.tex
+	*	1638569873	0
+	"	1	9
+	^	1	10
+	.	1	9
+	+	1	9
+
+> /tmp/tmpsq4ddf7t.tex
+	*	1638569800	0
+	"	1	20
+	^	1	21
+	.	1	20
+	+	1	20
+
+> /tmp/tmp_04s5t_y.tex
+	*	1638569778	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> /mnt/psf/Home/mipt/master.tex
+	*	1638557236	0
+	"	1	0
+	.	1	0
+	+	1	41
+	+	2	21
+	+	3	0
+	+	1	0
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-1/english/prestext2/master.tex
+	*	1638557186	0
+	"	1	0
+	^	107	253
+	.	107	252
+	+	58	441
+	+	57	24
+	+	14	0
+	+	9	0
+	+	11	0
+	+	15	0
+	+	17	250
+	+	18	0
+	+	20	0
+	+	22	0
+	+	21	14
+	+	24	0
+	+	25	0
+	+	27	0
+	+	28	13
+	+	31	0
+	+	30	0
+	+	32	0
+	+	35	0
+	+	36	0
+	+	38	0
+	+	39	14
+	+	28	11
+	+	41	0
+	+	42	14
+	+	44	0
+	+	45	14
+	+	48	13
+	+	50	0
+	+	52	0
+	+	54	0
+	+	56	0
+	+	57	14
+	+	61	0
+	+	58	782
+	+	59	0
+	+	48	11
+	+	43	520
+	+	65	169
+	+	66	317
+	+	66	0
+	+	69	21
+	+	69	47
+	+	69	143
+	+	75	289
+	+	77	419
+	+	79	147
+	+	79	4
+	+	79	301
+	+	79	205
+	+	81	18
+	+	82	548
+	+	83	0
+	+	84	0
+	+	84	85
+	+	90	0
+	+	87	540
+	+	92	0
+	+	89	220
+	+	92	24
+	+	101	0
+	+	93	180
+	+	94	155
+	+	96	417
+	+	98	309
+	+	102	0
+	+	92	53
+	+	102	0
+	+	102	153
+	+	102	175
+	+	103	10
+	+	106	0
+	+	104	0
+	+	107	252
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-1/english/prestext2/title.tex
+	*	1638461198	0
+	"	17	44
+	^	17	45
+	.	17	44
+	+	17	4
+	+	21	10
+	+	22	114
+	+	12	7
+	+	21	21
+	+	17	44
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-1/english/prestext/title.tex
+	*	1638454812	0
+	"	12	20
+	^	17	64
+	.	12	0
+	+	37	14
+	+	27	7
+	+	4	21
+	+	3	47
+	+	8	37
+	+	17	3
+	+	19	15
+	+	21	21
+	+	22	123
+	+	21	22
+	+	14	0
+	+	12	16
+	+	11	0
+	+	13	7
+	+	15	7
+	+	5	16
+	+	35	14
+	+	33	18
+	+	34	7
+	+	32	7
+	+	26	0
+	+	27	0
+	+	31	0
+	+	27	7
+	+	33	0
+	+	28	7
+	+	31	0
+	+	28	18
+	+	29	22
+	+	30	51
+	+	30	52
+	+	36	0
+	+	33	15
+	+	5	16
+	+	33	15
+	+	12	35
+	+	12	0
+
+> /mnt/psf/Home/mipt/bachelor-4/semester-1/english/or/master.tex
+	*	1637930142	0
+	"	14	950
+	^	6	22
+	.	14	950
+	+	3	20
+	+	17	247
+	+	9	0
+	+	12	0
+	+	15	0
+	+	2	21
+	+	7	8
+	+	6	0
+	+	8	150
+	+	14	950
+
+> /tmp/tmpaymotjgo.tex
+	*	1637525737	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> /tmp/tmp9sunce4i.tex
+	*	1637525667	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> /tmp/tmpq85wu1je.tex
+	*	1637525658	0
+	"	1	1
+	^	1	2
+	.	1	2
+	+	1	2

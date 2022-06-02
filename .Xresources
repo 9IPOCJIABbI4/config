@@ -1,0 +1,6 @@
+Xft.dpi: 192
+
+URxvt.scrollBar: false
+URxvt.font: xft:FiraCode Nerd Font Mono:size=12, xft:DejaVu Sans Mono:size=12, xft:DejaVu Math TeX Gyre:pixelsize=24
+URxvt.cursorBlink: 1
+URxvt.letterSpace: 1 

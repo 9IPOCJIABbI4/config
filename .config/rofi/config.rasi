@@ -1,0 +1,4 @@
+configuration{
+theme: "~/.cache/wal/colors-rofi-dark";
+font: "FiraCode Nerd Font Mono 24";
+}
